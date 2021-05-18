@@ -1,4 +1,5 @@
 # Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+#Link (https://parkj.github.io/rightway_blog/)
   
 ## `Sorry guys but there will be no update until I buy a new laptop.`
     
